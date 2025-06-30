@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070342136336",
+    "project_id": "ecomapp-mt-stripe",
+    "storage_bucket": "ecomapp-mt-stripe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070342136336:android:e43aabad9098a412a7a095",
+        "android_client_info": {
+          "package_name": "com.ecomapp.ecomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNuf_oF-GBxN0VRwBOg69O5HXNGGtVBJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
